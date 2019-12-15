@@ -4,6 +4,7 @@ import json
 import re
 from tabulate import tabulate
 
+
 def next_monday():
     days_ahead = 7 - datetime.datetime.now().weekday()
     return datetime.datetime.now() + datetime.timedelta(days_ahead)
