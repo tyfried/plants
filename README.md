@@ -4,7 +4,8 @@ Coding challenge for Tandem Apprenticeship
 
 ## Requirements
 - Python 3.6 or higher
-- [tabulate](https://pypi.org/project/tabulate/) `pip install tabulate`
+
+Run `pip install -r requirements.txt` to install all dependencies
 
 ## Usage
 `python plants.py [plants]`
