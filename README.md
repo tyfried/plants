@@ -11,4 +11,8 @@ Run `pip install -r requirements.txt` to install all dependencies
 `python plants.py [plants]`
 
 Parameters
-- plants: path to existing plants.json file
+- plants: path to existing plants json file
+
+## Testing
+
+`python test_plants.py`
