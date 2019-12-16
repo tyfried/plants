@@ -1,6 +1,5 @@
 from plants import *
 import unittest
-import heapq
 
 class TestScheduler(unittest.TestCase):
 
